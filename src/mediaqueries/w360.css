@@ -1,0 +1,13 @@
+@media (max-width: 361px) {
+  .tabs__link--selected /** transform rotate(90 deg)|docks to right screen edge full-height 10%-width*/
+ {
+    width: 100vh;
+    height: 10vw;
+  }
+
+  /** the other links to transition off screen 
+  i| fade opacity to 0;| 
+  ii| three other tabs zoom down to 10px/10px;|
+  iii| tabs are moving toward the top right corner;|
+  iv--| hotdog dots dock above the current docked tab on rightscreen edge in upper 10%;| */
+}

@@ -1,2 +1,0 @@
-# tuckerwray
-Created with CodeSandbox
